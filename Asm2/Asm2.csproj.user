@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>D:\lt\cs\Asm2\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="Business_services.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Family.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Product_units.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Public services.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Waterbill.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

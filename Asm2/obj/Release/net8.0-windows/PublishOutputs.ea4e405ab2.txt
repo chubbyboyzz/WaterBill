@@ -1,0 +1,5 @@
+D:\lt\cs\Asm2\bin\Debug\net8.0-windows\Asm2.exe
+D:\lt\cs\Asm2\bin\Debug\net8.0-windows\Asm2.dll
+D:\lt\cs\Asm2\bin\Debug\net8.0-windows\Asm2.deps.json
+D:\lt\cs\Asm2\bin\Debug\net8.0-windows\Asm2.runtimeconfig.json
+D:\lt\cs\Asm2\bin\Debug\net8.0-windows\Asm2.pdb
